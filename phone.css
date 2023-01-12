@@ -1,0 +1,40 @@
+/* Home */
+#Home{
+    height: 820px;
+}
+    #home::before{
+        Content: "";
+        position: absolute;
+        top: 0px;
+        right: 0;
+        left: 0;
+        background: url('img2.jpg') no-repeat center center /cover;
+        height: 920px;
+        width: 1200px;
+}
+.headings{
+    margin-top: 200px;
+    font-size: 1.7rem;
+}
+
+/* About */
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+/* Portfolio */
+.gallery img{
+    width: 275px;
+    height: 150px;
+    margin: 10px;
+}
+/* Contact */
+.input{
+    width: 80%;
+}
+#send{
+    width: 20%;
+}
