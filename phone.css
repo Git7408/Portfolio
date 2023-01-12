@@ -10,7 +10,7 @@
         left: 0;
         background: url('img2.jpg') no-repeat center center /cover;
         height: 920px;
-        width: 1200px;
+        width: 100%;
 }
 .headings{
     margin-top: 200px;
